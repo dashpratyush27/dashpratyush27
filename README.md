@@ -1,4 +1,4 @@
-👋 Hey, I'm @dashpratyush27!
+👋 Hey, I'm Pratyush Dash!
 
 🖥️ Passionate about web development, with a current focus on mastering backend technologies.
 
