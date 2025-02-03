@@ -1,4 +1,4 @@
-👋 Hey, I'm Pratyush Dash!
+👋 Hey, I'm Pratyush Dash! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 🖥️ Passionate about web development, with a current focus on mastering backend technologies.
 
@@ -9,14 +9,14 @@
 #WebDevelopment #CodingJourney #TechEnthusiast"
 - 📫 How to reach me **dash.pratyush27@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/pratyush-dash-475396229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyush-dash-475396229" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratyush27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratyush27" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -111,11 +111,27 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashpratyush27&show_icons=true&locale=en&layout=compact" alt="dashpratyush27" /></p>
+<h2 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashpratyush27&show_icons=true&locale=en&layout=compact" alt="dashpratyush27" /></h2>
 
-<h2>My Leetcode Stats</h2>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Pratyus27?theme=forest)
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dashpratyush27&count_private=true&theme=react&border_radius=10" />
+</a>
+<br />
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://leetcard.jacoblin.cool/Pratyus27?theme=forest" />
+</a>
+<br />
+<br />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dashpratyush27&show_icons=true&theme=radical" />
+</a>
+</div>
+
+
 <!---
 Pratyush27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
